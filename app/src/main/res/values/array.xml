@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spin_carinfo">
+        <item>아</item>
+        <item>바</item>
+        <item>사</item>
+        <item>자</item>
+    </string-array>
+
+    <string-array name="spin_email">
+        <item>gmail.com</item>
+        <item>naver.com</item>
+        <item>hanmail.net</item>
+        <item>nate.com</item>
+        <item>outlook.com</item>
+        <item>직접입력</item>
+    </string-array>
+
+    <string-array name="spin_find_kind">
+        <item>버스</item>
+        <item>지하철(1~4호선)</item>
+        <item>법인택시</item>
+        <item>개인택시</item>
+        <item>코레일</item>
+        <item>마을버스</item>
+        <item>지하철(5~8호선)</item>
+        <item>지하철(9호선)</item>
+        <item>[LOST112] 경찰청 유실물 센터</item>
+    </string-array>
+
+</resources>

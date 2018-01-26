@@ -1,0 +1,7 @@
+#Thu Oct 26 11:08:38 KST 2017
+base.0=/Users/aqoong/Documents/Dev/impotant/SMSReport/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_971b8639cbff763b3b801d8bb810ca270c2c72ac
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/aqoong/Documents/Dev/impotant/SMSReport/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9458439294d4e3932cdcbebf8be1d561bf49dba6/classes.dex
+base.1=/Users/aqoong/Documents/Dev/impotant/SMSReport/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9458439294d4e3932cdcbebf8be1d561bf49dba6
+file.0=/Users/aqoong/Documents/Dev/impotant/SMSReport/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_971b8639cbff763b3b801d8bb810ca270c2c72ac/classes.dex

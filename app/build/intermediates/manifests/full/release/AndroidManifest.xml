@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.aqoong.smsreport"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="DATA.key"
+            android:value="6b584f6f43636f6f33336d756b7550" />
+        <meta-data
+            android:name="DATA.key.Debug"
+            android:value="sample" />
+        <meta-data
+            android:name="URL_front"
+            android:value="http://openAPI.seoul.go.kr:8088/" />
+        <meta-data
+            android:name="URL_back"
+            android:value="/json/ListLostArticleService/" />
+
+        <activity
+            android:name="com.app.aqoong.smsreport.ui.PagerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Design.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.app.aqoong.smsreport.ui.ReportInsertActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Design" />
+        <activity
+            android:name="com.app.aqoong.smsreport.ui.UserDataActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Design"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.app.aqoong.smsreport.ui.FindDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Design" />
+        <activity
+            android:name="com.gun0912.tedpermission.TedPermissionActivity"
+            android:theme="@style/Theme.Transparent.Permission" />
+    </application>
+
+</manifest>

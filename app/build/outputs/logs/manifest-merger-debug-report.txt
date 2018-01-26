@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [gun0912.ted:tedpermission:2.0.0] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.0.aar/e2d86244644bc139522717b98c454254/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:design:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/333761f7032e94e1f71aed3fde6ee900/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a2d3c647368ee7235be57d47ffd3c9f5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/591a431090e850b38e4a732b0ac94213/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f016327690b655e5a87629744ed477a7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/fe1d30945618873c38ca5d4015d11948/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6a22892f140428484ba6d7c0b86f4de/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f66c50c61cd368b075c0c756b99011bc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/467ac10d00428043524bb2809ad48cba/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/534d382736b329eeb038ac910c83c907/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/309ccf2a7c9e495d99e3ed69dc3615bb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4f188de6a10de798aaa788f00e8a113e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/803a678ad32280a35122d10fe9fd58cc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/515f996c698dc2ce494f856334dd6af7/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:5:5-38:19
+MERGED from [gun0912.ted:tedpermission:2.0.0] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.0.aar/e2d86244644bc139522717b98c454254/AndroidManifest.xml:9:5-13:19
+MERGED from [gun0912.ted:tedpermission:2.0.0] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.0.aar/e2d86244644bc139522717b98c454254/AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:design:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/333761f7032e94e1f71aed3fde6ee900/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/333761f7032e94e1f71aed3fde6ee900/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a2d3c647368ee7235be57d47ffd3c9f5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a2d3c647368ee7235be57d47ffd3c9f5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/591a431090e850b38e4a732b0ac94213/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/591a431090e850b38e4a732b0ac94213/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f016327690b655e5a87629744ed477a7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f016327690b655e5a87629744ed477a7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/fe1d30945618873c38ca5d4015d11948/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/fe1d30945618873c38ca5d4015d11948/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f66c50c61cd368b075c0c756b99011bc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f66c50c61cd368b075c0c756b99011bc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/467ac10d00428043524bb2809ad48cba/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/467ac10d00428043524bb2809ad48cba/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/534d382736b329eeb038ac910c83c907/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/534d382736b329eeb038ac910c83c907/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/309ccf2a7c9e495d99e3ed69dc3615bb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/309ccf2a7c9e495d99e3ed69dc3615bb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4f188de6a10de798aaa788f00e8a113e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4f188de6a10de798aaa788f00e8a113e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/803a678ad32280a35122d10fe9fd58cc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/803a678ad32280a35122d10fe9fd58cc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/515f996c698dc2ce494f856334dd6af7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/515f996c698dc2ce494f856334dd6af7/AndroidManifest.xml:29:5-20
+	android:screenOrientation
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:11:9-45
+	android:supportsRtl
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:12:9-40
+meta-data#DATA.key
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:14:9-92
+	android:value
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:14:44-90
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:14:20-43
+meta-data#DATA.key.Debug
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:15:9-74
+	android:value
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:15:50-72
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:15:20-49
+meta-data#URL_front
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:16:9-95
+	android:value
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:16:45-93
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:16:20-44
+meta-data#URL_back
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:17:9-91
+	android:value
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:17:44-89
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:17:20-43
+activity#com.app.aqoong.smsreport.ui.PagerActivity
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:20:9-27:20
+	android:screenOrientation
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:21:13-49
+	android:theme
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:22:13-60
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:20:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.app.aqoong.smsreport.ui.ReportInsertActivity
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:28:9-30:50
+	android:screenOrientation
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:29:13-49
+	android:theme
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:28:19-58
+activity#com.app.aqoong.smsreport.ui.UserDataActivity
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:31:9-34:50
+	android:screenOrientation
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:32:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:33:13-52
+	android:theme
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:34:13-48
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:31:19-54
+activity#com.app.aqoong.smsreport.ui.FindDetailActivity
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:35:9-37:50
+	android:screenOrientation
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:36:13-49
+	android:theme
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:37:13-48
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:35:19-56
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:40:5-66
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:40:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:41:5-78
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:41:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:42:5-66
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:42:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:43:5-78
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:43:22-76
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:44:5-66
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:44:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:45:5-74
+	android:name
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml:45:22-72
+uses-sdk
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+MERGED from [gun0912.ted:tedpermission:2.0.0] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.0.aar/e2d86244644bc139522717b98c454254/AndroidManifest.xml:5:5-7:41
+MERGED from [gun0912.ted:tedpermission:2.0.0] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.0.aar/e2d86244644bc139522717b98c454254/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/333761f7032e94e1f71aed3fde6ee900/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/333761f7032e94e1f71aed3fde6ee900/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a2d3c647368ee7235be57d47ffd3c9f5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a2d3c647368ee7235be57d47ffd3c9f5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/591a431090e850b38e4a732b0ac94213/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/591a431090e850b38e4a732b0ac94213/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f016327690b655e5a87629744ed477a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f016327690b655e5a87629744ed477a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/fe1d30945618873c38ca5d4015d11948/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/fe1d30945618873c38ca5d4015d11948/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6a22892f140428484ba6d7c0b86f4de/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6a22892f140428484ba6d7c0b86f4de/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f66c50c61cd368b075c0c756b99011bc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f66c50c61cd368b075c0c756b99011bc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/467ac10d00428043524bb2809ad48cba/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/467ac10d00428043524bb2809ad48cba/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/534d382736b329eeb038ac910c83c907/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/534d382736b329eeb038ac910c83c907/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/309ccf2a7c9e495d99e3ed69dc3615bb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/309ccf2a7c9e495d99e3ed69dc3615bb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4f188de6a10de798aaa788f00e8a113e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4f188de6a10de798aaa788f00e8a113e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/803a678ad32280a35122d10fe9fd58cc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/803a678ad32280a35122d10fe9fd58cc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/515f996c698dc2ce494f856334dd6af7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/515f996c698dc2ce494f856334dd6af7/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/333761f7032e94e1f71aed3fde6ee900/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aqoong/Documents/Dev/impotant/SMSReport/app/src/main/AndroidManifest.xml
+activity#com.gun0912.tedpermission.TedPermissionActivity
+ADDED from [gun0912.ted:tedpermission:2.0.0] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.0.aar/e2d86244644bc139522717b98c454254/AndroidManifest.xml:10:9-12:67
+	android:theme
+		ADDED from [gun0912.ted:tedpermission:2.0.0] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.0.aar/e2d86244644bc139522717b98c454254/AndroidManifest.xml:12:13-64
+	android:name
+		ADDED from [gun0912.ted:tedpermission:2.0.0] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/tedpermission-2.0.0.aar/e2d86244644bc139522717b98c454254/AndroidManifest.xml:11:13-75
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/333761f7032e94e1f71aed3fde6ee900/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a2d3c647368ee7235be57d47ffd3c9f5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a2d3c647368ee7235be57d47ffd3c9f5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f016327690b655e5a87629744ed477a7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f016327690b655e5a87629744ed477a7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/fe1d30945618873c38ca5d4015d11948/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/fe1d30945618873c38ca5d4015d11948/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6a22892f140428484ba6d7c0b86f4de/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6a22892f140428484ba6d7c0b86f4de/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f66c50c61cd368b075c0c756b99011bc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f66c50c61cd368b075c0c756b99011bc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/467ac10d00428043524bb2809ad48cba/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/467ac10d00428043524bb2809ad48cba/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/534d382736b329eeb038ac910c83c907/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/534d382736b329eeb038ac910c83c907/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/309ccf2a7c9e495d99e3ed69dc3615bb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/309ccf2a7c9e495d99e3ed69dc3615bb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4f188de6a10de798aaa788f00e8a113e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4f188de6a10de798aaa788f00e8a113e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/803a678ad32280a35122d10fe9fd58cc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/803a678ad32280a35122d10fe9fd58cc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/515f996c698dc2ce494f856334dd6af7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/515f996c698dc2ce494f856334dd6af7/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/333761f7032e94e1f71aed3fde6ee900/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/aqoong/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/333761f7032e94e1f71aed3fde6ee900/AndroidManifest.xml:26:9-47

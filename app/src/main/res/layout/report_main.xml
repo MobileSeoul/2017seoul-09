@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/report_main"
+    android:padding="15dp">
+
+
+
+    <!--차량정보-->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+
+        <!--운수회사 / 지하철노선-->
+        <TextView
+            android:id="@+id/text_notic_company"
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="운수회사 / 지하철노선"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <EditText
+                android:id="@+id/company"
+                style="@style/EditTextStyle"
+                android:theme="@style/EditTextStyle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:maxLength="5"
+                android:maxLines="1"
+                android:textCursorDrawable="@color/colorAccent"
+                android:hint="회사명"
+                />
+            <EditText
+                android:id="@+id/bus_linenumber"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                style="@style/EditTextStyle"
+                android:theme="@style/EditTextStyle"
+                android:textCursorDrawable="@color/colorAccent"
+                android:visibility="invisible"
+                android:hint="노선번호"
+                />
+            <ImageButton
+                android:id="@+id/btn_help"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleX="0.7"
+                android:scaleY="0.7"
+                android:background="@android:color/transparent"
+                android:src="@drawable/light"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/carinfo_panel"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="@color/colorAccent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:text="차량정보"/>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <!--차량번호1-->
+                <EditText
+                    style="@style/EditTextStyle"
+                    android:theme="@style/EditTextStyle"
+                    android:id="@+id/carinfo_1"
+                    android:inputType="number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:maxLength="2"
+                    android:textCursorDrawable="@color/colorAccent"
+                    android:hint="00"/>
+                <!--아바사자-->
+                <Spinner
+                    android:id="@+id/spin_carinfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:dropDownWidth="100dp"
+                    android:textAlignment="center"
+                    android:entries="@array/spin_carinfo">
+                </Spinner>
+                <!--4자리번호-->
+                <EditText
+                    style="@style/EditTextStyle"
+                    android:id="@+id/carinfo_2"
+                    android:inputType="number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:maxLength="4"
+                    android:textCursorDrawable="@color/colorAccent"
+                    android:hint="0000"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="장소"/>
+        <!--GPS정보-->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/location_info"
+                android:layout_width="0dp"
+                android:layout_weight="4"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:clickable="false"
+                android:hint="GPS로 현재 위치 찾기"/>
+            <Button
+                android:id="@+id/btn_gps"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="GPS"/>
+        </LinearLayout>
+        <EditText
+            style="@style/EditTextStyle"
+            android:theme="@style/EditTextStyle"
+            android:id="@+id/location_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:textCursorDrawable="@color/colorAccent"
+            android:hint="자세한 위치(GPS사용시 선택사항)"/>
+
+        <TextView
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="시간"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/timer"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            />
+
+    </LinearLayout>
+
+    <!--신고내용-->
+    <TextView
+        android:textColor="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="신고내용"
+        android:textSize="15sp"
+        android:textStyle="bold"/>
+    <EditText
+        style="@style/EditTextStyle"
+        android:theme="@style/EditTextStyle"
+        android:layout_weight="1.1"
+        android:id="@+id/content_text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:maxLines="20"
+        android:textColor="@android:color/black"
+        android:textColorHint="#A5A2A2"
+        android:hint="무정차통과/신호위반/과속/난폭운전 또는 기타 불편사항을 상세하게 적어주세요"
+        android:background="@drawable/translate_border"
+        android:ems="10"
+        android:inputType="textMultiLine|textAutoComplete"
+        />
+
+    <Button
+        android:layout_gravity="right"
+        android:id="@+id/btn_nextstep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="다음"/>
+
+
+</LinearLayout>

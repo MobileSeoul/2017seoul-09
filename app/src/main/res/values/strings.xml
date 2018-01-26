@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">온더로드</string>
+    <string name="permission_notic">문자 권한이 거부되어 있습니다.\n설정 > 애플리케이션 > 앱이름 > 권한 에서 권한을 허가하여 주세요.</string>
+    <string name="terms_notic">서울 다산콜센터에 문자로 전송되며 요금제에 따라 전송요금이 발생 될 수 있으며\n허위 신고일 경우 불이익이 발생할 수 있습니다.</string>
+    <string name="apimsg_non">INFO-200</string>         <!--데이터없음-->
+    <string name="apimsg_endservice">INFO-310</string>  <!--서비스종료-->
+    <string name="apimsg_errserver">INFO-500</string>         <!--서버에러-->
+    <string name="apimsg_ok">INFO-0000</string>         <!--정상-->
+    <string name="empty_notic">보관센터로부터 정보가 제공되지 않았습니다</string>
+</resources>

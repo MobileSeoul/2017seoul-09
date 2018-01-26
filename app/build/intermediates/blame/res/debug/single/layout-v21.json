@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/aqoong/Documents/Dev/impotant/SMSReport/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/aqoong/.android/build-cache/8636589ddf608efeff06d382c079d019ed168159/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/aqoong/Documents/Dev/impotant/SMSReport/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/aqoong/.android/build-cache/8636589ddf608efeff06d382c079d019ed168159/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/aqoong/Documents/Dev/impotant/SMSReport/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/aqoong/.android/build-cache/8636589ddf608efeff06d382c079d019ed168159/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/aqoong/Documents/Dev/impotant/SMSReport/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/aqoong/.android/build-cache/8636589ddf608efeff06d382c079d019ed168159/output/res/layout-v21/notification_action.xml"
+    }
+]
